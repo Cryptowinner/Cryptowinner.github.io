@@ -1,12 +1,25 @@
+body.main {
+    margin-left: 225px;
+    background-color: #FFEFB6;
+    color: black;
+}
+
 body {
-  margin-left: 200px;
-  background-color: #3aaaa9;
-  color: white;
+    background-color: #FFEFB6;
+    color: black;
 }
 
 ul.navbar {
-  position: absolute;
-  top: 30px;
-  left: 15px;
-  width: 150px;
+    position: absolute;
+    top: 30px;
+    left: 15px;
+    width: 150px;
+}
+
+p.p1 {
+    color: teal;
+}
+
+p.p2 {
+    color: darkolivegreen;
 }
